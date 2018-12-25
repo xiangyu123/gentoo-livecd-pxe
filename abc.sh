@@ -1,4 +1,5 @@
 #!/bin/bash -xe
+# for livecd gentoo  install-amd64-minimal-20181223T214502Z.iso
 # Create kernel and initrd files from a Gentoo LiveCD (DVD?) for PXE boot.
 
 print-usage() {
